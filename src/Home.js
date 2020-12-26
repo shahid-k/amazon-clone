@@ -9,7 +9,7 @@ function Home() {
             
 
             <div className="home__row">
-                <Product title="The lean startup"price={19.99}image="https://images-na.ssl-images-amazon.com/images/I/41Q419CMtfL._SX325_BO1,204,203,200_.jpg"rating="3"/>
+                <Product title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses"price={19.99}image="https://images-na.ssl-images-amazon.com/images/I/41Q419CMtfL._SX325_BO1,204,203,200_.jpg"rating="3"/>
                 <Product title="Redmi Note 9 Pro (Champagne Gold, 4GB RAM, 64GB Storage) - Latest 8nm Snapdragon 720G"price={299.99}rating="4"image="https://images-na.ssl-images-amazon.com/images/I/81DvimWN5xL._SL1500_.jpg"/>
 
                 {/* <Product/> */}
